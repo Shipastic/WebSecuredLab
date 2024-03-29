@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|c:\\users\\student\\source\\repos\\websecuredlab\\websecured\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F1C1B4-06F7-4F97-836C-6020BF1B95F2}|WebSecured\\WebSecured.csproj|solutionrelative:websecured\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebSecured\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebSecured\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T11:15:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebSecured\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:10:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebSecured\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebSecured\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T11:08:55.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebSecured\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebSecured\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T11:08:35.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "WebSecured\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:03:42.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebSecured\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAmwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:03:32.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwHkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:02:44.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebSecured\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T11:02:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebSecured\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:01:34.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebSecured\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:01:30.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Program.cs",
+              "RelativeDocumentMoniker": "WebSecured\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\WebSecuredLab\\WebSecured\\Program.cs",
+              "RelativeToolTip": "WebSecured\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:00:41.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
